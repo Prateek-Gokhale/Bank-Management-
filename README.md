@@ -76,14 +76,4 @@ java Main
 * Add GUI (Swing / JavaFX)
 * Convert to Spring Boot REST API
 
----
 
-## 👨‍💻 Author
-
-Your Name
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
